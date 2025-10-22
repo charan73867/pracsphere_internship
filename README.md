@@ -128,7 +128,8 @@ Push branch: git push origin feature-name
 
 Open a Pull Request for review.
 #SCREENSHOTS#
-<img width="1907" height="903" alt="Screenshot 2025-10-22 050047" src="https://github.com/user-attachments/assets/e9e86cd3-4dc8-40af-9ff6-ecf747cd4dc1" />
+<img width="1907" height="903" alt="Screenshot 2025-10-22 050047" src="https://github.com/user-attachments/assets/8b6dc237-3ef0-4573-9ccc-91165573d64e" />
+
 
 
 
