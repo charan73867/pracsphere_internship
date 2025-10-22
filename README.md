@@ -113,6 +113,7 @@ Drag-and-drop task reordering.
 
 Analytics dashboard for tracking productivity.
 
+
 Calendar integration to visualize tasks.
 
 Offline support using service workers.
@@ -128,8 +129,9 @@ Push branch: git push origin feature-name
 
 Open a Pull Request for review.
 #SCREENSHOTS#
-<img width="1907" height="903" alt="Screenshot 2025-10-22 050047" src="https://github.com/user-attachments/assets/8b6dc237-3ef0-4573-9ccc-91165573d64e" />
 
+
+<img width="1907" height="903" alt="Screenshot 2025-10-22 050047" src="https://github.com/user-attachments/assets/987e3545-71b2-40b2-a81b-fe1b2b6b0629" />
 
 
 
