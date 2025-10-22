@@ -127,3 +127,15 @@ Commit changes: git commit -m "Add feature"
 Push branch: git push origin feature-name
 
 Open a Pull Request for review.
+#SCREENSHOTS#
+<img width="1907" height="903" alt="Screenshot 2025-10-22 050047" src="https://github.com/user-attachments/assets/e9e86cd3-4dc8-40af-9ff6-ecf747cd4dc1" />
+<img width="1909" height="904" alt="Screenshot 2025-10-22 050113" src="https://github.com/user-attachments/assets/d822f157-25f0-47d1-a702-81950757bd64" />
+<img width="1905" height="909" alt="Screenshot 2025-10-22 050131" src="https://github.com/user-attachments/assets/893d60c1-9972-4b7f-bd73-f0f0a6035e61" />
+<img width="1880" height="906" alt="Screenshot 2025-10-22 050205" src="https://github.com/user-attachments/assets/12cc94b4-35e5-45e6-b3ab-6257f02c5880" />
+<img width="1903" height="913" alt="Screenshot 2025-10-22 050235" src="https://github.com/user-attachments/assets/3adf72cb-42e5-431c-9820-4997d0145724" />
+<img width="1913" height="902" alt="Screenshot 2025-10-22 115057" src="https://github.com/user-attachments/assets/a55b45c3-03c9-4c6d-8363-980591e3c2b8" />
+
+
+
+
+
